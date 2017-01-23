@@ -1,4 +1,20 @@
+.promo-slider {
+      margin: auto;
+}
+.slider {
+	width: 1020px;
+	height: 500px;
+	overflow: hidden;
+	position: relative;
+}
+.slides {
+	display: inline-block;
+}
+.content {
+	width: 500px;
+	height: 500px;
+	margin-left: 500px;
+}
 img {
-	width: 15px;
-	height: 15px;
+	position: absolute;
 }
