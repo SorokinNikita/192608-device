@@ -12,23 +12,3 @@ h1 {
 	font-weight: bold;
 	font-family: Gilroy;
 }
-.promo-slider {
-	
-}
-.slider {
-	width: 1020px;
-	height: 500px;
-	overflow: hidden;
-	position: relative;
-}
-.slides {
-	display: inline-block;
-}
-.feature {
-	width: 500px;
-	height: 500px;
-	margin-left: 500px;
-}
-.slides>img {
-	position: absolute;
-}
