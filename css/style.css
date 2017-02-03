@@ -4,11 +4,24 @@ body {
 	color: black;
 	font-weight: normal;
 	font-family: OpenSans;
+
 }
 h1 {
 	font-size: 47px;
 	line-height: 120%;
 	color: black;
-	font-weight: bold;
+	font-weight: normal;
 	font-family: Gilroy;
+}
+h2 {
+	font-size: 18px;
+	line-height: 120%;
+	color: black;
+	font-weight: normal;
+	font-family: Gilroy;
+}
+.container {
+	width: 1160px;
+	padding: 0 20px;
+	margin: 0 auto;
 }
